@@ -5,3 +5,7 @@
   * Code Review
   * Test
   * Deliver to users
+* Software Delivery
+  * running that code on a production server
+  * 􏰄making that code resilient to outages and traffic spikes
+  * protecting the code from attackers
